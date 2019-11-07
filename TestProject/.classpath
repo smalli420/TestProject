@@ -2,5 +2,61 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/selenium-server-standalone-3.141.59.jar" sourcepath="C:/Users/admin/Downloads/Selenium_setup/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Apachi POI lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Apachi POI lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Apachi POI lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Apachi POI lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Apachi POI lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Apachi POI lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Apachi POI lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Apachi POI lib/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Apachi POI lib/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Apachi POI lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Apachi POI lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Apachi POI lib/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Apachi POI lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/jars/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/jars/java-client-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/jars/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/jars/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/jars/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/jars/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/jars/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/jars/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/jars/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/sikuli/sikulixapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/sikuli/sikulixlibswin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/sikuli/sikulixsetup-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/sikuli/ATUReporter_Selenium_testNG_5.1.1 jar+javadoc+prop file+demo proj+atu recorder/ATUReporter_Selenium_testNG_5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/sikuli/ATUReporter_Selenium_testNG_5.1.1 jar+javadoc+prop file+demo proj+atu recorder/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/fontbox-2.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/jbig2-imageio-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/jboss-vfs-3.2.14.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/lept4j-1.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/pdfbox-2.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/pdfbox-debugger-2.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/pdfbox-tools-2.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/tess4j-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/Selenium_setup/Tess4j-jar files/xmlgraphics-commons-1.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
